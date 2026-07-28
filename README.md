@@ -1,6 +1,6 @@
 # Stroke-Prediction
 
-Here's a professional **GitHub README description** for your project.
+🔗Live Link: https://stroke-predicition-nit.streamlit.app/
 
 **Project Description**
 
